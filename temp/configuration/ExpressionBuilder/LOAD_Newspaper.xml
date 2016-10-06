@@ -1,0 +1,40 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="TACustom.phoneFormat(&quot;-&quot;,&quot;1&quot;,row1.TFNs)">
+  <variables name="row1.Region" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Lead_Brand" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Market" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.County" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.State" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Publication" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.MediaNumber" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.PublicationDays" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.WeekOf" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.InsertionDate" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row1.InsertionDay" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Material_Deadline_Range" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Material_Deadline" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row1.Material_Time_Due" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row1.Meeting_Block_1" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Meeting_Block_2" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Meeting_Block_3" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Meeting_Block_4" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Meeting_Block_5" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Meeting_Block_6" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Space_Deadline" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Newspaper_Specs" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Insertion_Format" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Insertion_Cost" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row1.Benefit_Bullets_1" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Benefit_Bullets_2" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Benefit_Bullets_3" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Benefit_Bullets_4" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Benefit_Bullets_5" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Creative_Template__CODE" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.TFNs" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Meeting_Non_Meeting" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Legal_Disclaimer" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Createive_Template" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.CREATIVE_NAME" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.CMS_CODE" value="null" talendType="id_String" nullable="true"/>
+  <variables name="" value="null" talendType="id_String"/>
+</expression:EMFExpression>
